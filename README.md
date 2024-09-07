@@ -1,7 +1,7 @@
+![Banner GIF](new_top_banner.gif)
+
 #  👨‍🎓 Olgierd Karpacz
 **`(Student)`**
-
-![Banner GIF](new_top_banner.gif)
 
 I am a Computer Science student based in Gdańsk, Poland. My academic journey and personal interests are deeply rooted in the world of programming, data analysis, and software development. I’m passionate about exploring new technologies, tackling complex problems, and creating innovative solutions.
 
