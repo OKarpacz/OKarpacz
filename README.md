@@ -30,7 +30,6 @@ I am always eager to learn new skills and collaborate on exciting projects. Feel
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
 <img align="left" alt="Maria" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg"/>
 <img align="left" alt="Mongo" width="30px" style="padding-right:10px;" src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-/>
 <br />
 
 #
