@@ -30,11 +30,13 @@ I am always eager to learn new skills and collaborate on exciting projects. Feel
 
 ---
 
-###  🔍 CannonCode
+###  🧑‍💻 CannonCode
 
-CannonCode is an informatics club that I founded to expand computing opportunities for young, innovative students. Our mission is to leverage technology to solve everyday problems and teach computer science in an engaging and practical way. We believe that young people have the greatest potential for innovation. At CannonCode, we create a space where creativity and innovation are at the forefront.
+CannonCode is an informatics club I founded to empower young, innovative students with cutting-edge computing opportunities. Our mission is to harness technology to tackle everyday challenges and to teach computer science in a dynamic and hands-on way. We believe that young minds are the key to groundbreaking innovations. At CannonCode, we foster an environment where creativity and innovation thrive.
 
-If you want to see our projects, checkout our Github <a href="https://github.com/CannonCodePJATK">HERE</a>.
+Curious about our projects? Explore our work on GitHub <a href="https://github.com/CannonCodePJATK">HERE</a>.
+
+
 
 
 
