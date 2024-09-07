@@ -1,3 +1,5 @@
+![Banner GIF](new_top_banner.gif)
+
 #  👨‍🎓 Olgierd Karpacz
 **`(Student)`**
 
