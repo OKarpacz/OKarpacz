@@ -5,7 +5,7 @@
 
 I am a Computer Science student based in Gdańsk, Poland. My academic journey and personal interests are deeply rooted in the world of programming, data analysis, and software development. I’m passionate about exploring new technologies, tackling complex problems, and creating innovative solutions.
 
-Currently, I am working on various projects that involve coding in Python, data visualization, and machine learning. My recent work includes developing tools for fetching and analyzing stock market data, as well as visualizing financial trends and correlations.
+I am currently focused on creating smart systems, streamlining workflows through automation, and utilizing data-driven strategies to address real-world problems. My work revolves around designing scalable solutions, exploring AI capabilities, and enhancing efficiency with optimized algorithms.
 
 I am always eager to learn new skills and collaborate on exciting projects. Feel free to explore my repositories to see some of the work I’ve been involved in, and don’t hesitate to reach out if you have any questions or if you’d like to discuss potential collaborations!
 
